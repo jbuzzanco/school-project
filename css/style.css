@@ -19,6 +19,14 @@ i {
   color: #4db6ac;
 }
 
+table {
+  max-width: 580px;
+}
+
+td {
+  padding: 4px 4px 3px 3px;
+}
+
 .button-collapse {
   color: #26a69a;
 }
